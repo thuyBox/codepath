@@ -9,4 +9,8 @@ Completed user stories:
  * [x] RequiredOptional: Bill amount is saved across app restarts and cleared out after 10 minutes
  * [x] RequiredOptional: Tip/Total amount is formatted with user locale
 
+Walkthrough of all user stories:
+
 ![Video Walkthrough](tipCalculator.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
